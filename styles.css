@@ -116,23 +116,23 @@ a:active {
     display: inline-block;
     font-size: 12px;
     cursor: pointer;
-  }
+}
 
-  .footer {
-      width: 100vw;
-      background-color: #363E3E;
-  }
+.footer {
+    width: 100vw;
+    background-color: #363E3E;
+}
 
-  .footer-text-container {
+.footer-text-container {
     color: rgba(255, 255, 255, 0.87);
     text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
     padding: 45px;
-  }
+}
   
-  .footer-copyright-text {
+.footer-copyright-text {
     color: rgba(255, 255, 255, 0.4);
-  }
+}
   
